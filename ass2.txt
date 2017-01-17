@@ -1,0 +1,21 @@
+package practics.example;
+
+public class assigment2 {
+
+	public static void main(String[] args) {
+		int a=20,c,d,e;
+		int b= 10;
+		b=a-- - --a;
+		c=a--;
+		d=a>>2;
+		e=a&b;
+		System.out.println("result b="+ b);
+		System.out.println("result c="+ c);
+		System.out.println("result d="+ d);
+		System.out.println("result e="+ e);
+		
+		
+
+	}
+
+}
